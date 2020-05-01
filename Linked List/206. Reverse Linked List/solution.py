@@ -10,7 +10,7 @@
 
 class Solution:
     # iteration
-    def reverseList(self, head: ListNode) -> ListNode:
+    def reverseList1(self, head: ListNode) -> ListNode:
         if not head:
             return head
         
@@ -25,10 +25,35 @@ class Solution:
             
         return pre
     
-    # recursion
-    def reverseList(self, head: ListNode) -> ListNode:
-        if not head or not head.next: return head
+    def reverseList2(self, head: ListNode) -> ListNode:
+        if not head:
+            return head
+        
+        prev = None
+        while head:
+            head.next, prev, head = prev, head, head.next
+            
+        return prev
+    
+    # recursion with helper function
+    def reverseList3(self, head):
+        return self._reverse(head)
+
+    def _reverse(self, node, prev=None):
+        if not node:
+            return prev
+        n = node.next
+        node.next = prev
+        return self._reverse(n, node)
+
+    # recursion without helper function
+    def reverseList4(self, head: ListNode) -> ListNode:
+        if not head or not head.next: 
+            return head
+        
         p = self.reverseList(head.next)
+        
         head.next.next = head
         head.next = None
+        
         return p

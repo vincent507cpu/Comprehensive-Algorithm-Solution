@@ -14,7 +14,7 @@ class Solution:
             head = head.next
             
         return lst == lst[::-1]
-    
+    ###################################################################
     # O(1) space complexity
     # https://leetcode.com/problems/palindrome-linked-list/discuss/64500/11-lines-12-with-restore-O(n)-time-O(1)-space
     def isPalindrome(self, head):
@@ -38,3 +38,23 @@ class Solution:
 
         # if equivalent then rev become None, return True; otherwise return False 
         return not rev
+    ###################################################################
+    # Same as the above, but while comparing the two halves, restore the list to its original state by reversing the first half back.
+    def isPalindrome(self, head: ListNode) -> bool:
+        rev = None
+        fast = head
+        
+        while fast and fast.next:
+            fast = fast.next.next
+            rev, rev.next, head = head, rev, head.next
+            
+        tail = head.next if fast else head
+        
+        isPolindrome = True
+        
+        while rev:
+            isPolindrome = isPolindrome and rev.val == tail.val
+            head, head.next, rev = rev, head, rev.next
+            tail = tail.next
+            
+        return isPolindrome
