@@ -3,15 +3,15 @@
 
 class Solution:
     def findLHS(self, nums: List[int]) -> int:
-        mp = {}
-        for i in nums:
-            if i not in mp:
-                mp[i] = 1
-            else: mp[i] += 1
-            
-        ln = 0;
+        dct = {}
         
-        for i in mp:
-            if mp.get(i+1):
-                ln = max(ln, mp[i] + mp[i+1])
-        return ln   
+        for n in nums:
+            dct[n] = dct.get(n, 0) + 1
+            
+        res = 0
+        
+        for n in dct:
+            if dct.get(n+1):
+                res = max(res, dct[n] + dct[n+1])
+            
+        return res
