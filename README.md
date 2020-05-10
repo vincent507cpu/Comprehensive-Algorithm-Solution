@@ -63,3 +63,4 @@ This is the repository for LeetCode Python solution. The problems may have multi
 
 | Problem | Solutions |
 | :--: | :--: |
+|[26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Array/26.%20Remove%20Duplicates%20from%20Sorted%20Array)|

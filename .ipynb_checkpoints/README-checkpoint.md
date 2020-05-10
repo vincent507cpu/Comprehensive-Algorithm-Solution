@@ -58,3 +58,9 @@ This is the repository for LeetCode Python solution. The problems may have multi
 |[237. Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Linked%20List/237.%20Delete%20Node%20in%20a%20Linked%20List)|
 |[876. Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Linked%20List/876.%20Middle%20of%20the%20Linked%20List)|
 |[1290. Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Linked%20List/1290.%20Convert%20Binary%20Number%20in%20a%20Linked%20List%20to%20Integer)|
+
+## Array
+
+| Problem | Solutions |
+| :--: | :--: |
+|[26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Array/26.%20Remove%20Duplicates%20from%20Sorted%20Array)|
