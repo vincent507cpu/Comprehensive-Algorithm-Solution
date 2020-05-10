@@ -46,7 +46,7 @@ This is the repository for LeetCode Python solution. The problems may have multi
 
 ## Linked List
 
-| Problem | Solutions |
+| No. | Solutions |
 | :-- | :--: |
 |21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Linked%20List/21.%20Merge%20Two%20Sorted%20Lists)|
 |83|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Linked%20List/83.%20Remove%20Duplicates%20from%20Sorted%20List)|
@@ -61,6 +61,6 @@ This is the repository for LeetCode Python solution. The problems may have multi
 
 ## Array
 
-| Problem | Solutions |
+| No. | Solutions |
 | :-- | :--: |
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Array/26.%20Remove%20Duplicates%20from%20Sorted%20Array)|
