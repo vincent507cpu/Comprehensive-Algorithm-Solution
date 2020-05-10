@@ -5,13 +5,13 @@ You can use each character in `text` **at most once**. Return the maximum number
  
 
 Example 1:
-![](1536_ex1_upd.jpg)
+![](1536_ex1_upd.JPG)
 ```
 Input: text = "nlaebolko"
 Output: 1
 ```
 Example 2:
-![](1536_ex2_upd.jpg)
+![](1536_ex2_upd.JPG)
 ```
 Input: text = "loonbalxballpoon"
 Output: 2
