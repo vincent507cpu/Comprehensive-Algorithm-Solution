@@ -5,7 +5,7 @@ This is the repository for LeetCode Python solution. The problems may have multi
 ## Hash Table Problems
 
 | Problem | Solutions |
-| :--: | :--: |
+| :-- | :--: |
 |[1. Two Sum](https://leetcode.com/problems/two-sum/)|[link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Hash%20Table/1.%20Two%20Sum)|
 |[136. Single Number](https://leetcode.com/problems/single-number/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Hash%20Table/136.%20Single%20Number)|
 |[202. Happy Number](https://leetcode.com/problems/happy-number/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Hash%20Table/202.%20Happy%20Number)|
@@ -30,7 +30,7 @@ This is the repository for LeetCode Python solution. The problems may have multi
 |[645. Set Mismatch](https://leetcode.com/problems/set-mismatch/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Hash%20Table/645.%20Set%20Mismatch)|
 |[690. Employee Importance](https://leetcode.com/problems/employee-importance/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Hash%20Table/690.%20Employee%20Importance)|
 |[720. Longest Word in Dictionary](https://leetcode.com/problems/longest-word-in-dictionary/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Hash%20Table/720.%20Longest%20Word%20in%20Dictionary)|
-|[748. Shortest Completing Word](748. Shortest Completing Word)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Hash%20Table/748.%20Shortest%20Completing%20Word)|
+|[748. Shortest Completing Word](https://leetcode.com/problems/shortest-completing-word/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Hash%20Table/748.%20Shortest%20Completing%20Word)|
 |[771. Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Hash%20Table/771.%20Jewels%20and%20Stones)|
 |[811. Subdomain Visit Count](https://leetcode.com/problems/subdomain-visit-count/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Hash%20Table/811.%20Subdomain%20Visit%20Count)|
 |[884. Uncommon Words from Two Sentences](https://leetcode.com/problems/uncommon-words-from-two-sentences/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Hash%20Table/884.%20Uncommon%20Words%20from%20Two%20Sentences)|
@@ -47,7 +47,7 @@ This is the repository for LeetCode Python solution. The problems may have multi
 ## Linked List
 
 | Problem | Solutions |
-| :--: | :--: |
+| :-- | :--: |
 |[21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Linked%20List/21.%20Merge%20Two%20Sorted%20Lists)|
 |[83. Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Linked%20List/83.%20Remove%20Duplicates%20from%20Sorted%20List)|
 |[141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Linked%20List/141.%20Linked%20List%20Cycle)|
@@ -62,5 +62,5 @@ This is the repository for LeetCode Python solution. The problems may have multi
 ## Array
 
 | Problem | Solutions |
-| :--: | :--: |
+| :-- | :--: |
 |[26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Array/26.%20Remove%20Duplicates%20from%20Sorted%20Array)|
