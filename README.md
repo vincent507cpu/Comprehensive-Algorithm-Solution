@@ -67,3 +67,4 @@ This repository will likely only cover easy and mdediem problems in the near fut
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Array/26.%20Remove%20Duplicates%20from%20Sorted%20Array)|
 |27|[Remove Element](https://leetcode.com/problems/remove-element/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Array/27.%20Remove%20Element)|
 |66|[Plus One](https://leetcode.com/problems/plus-one/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Array/66.%20Plus%20One)|
+|88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Array/88.%20Merge%20Sorted%20Array)|
