@@ -1,6 +1,6 @@
 This is the repository for solutions for LeetCode problems in Python . Each problem may have multiple tags, I group them in my convience.
 
-This repository will likely only cover easya dn mdediem problems in the near future.
+This repository will likely only cover easy and mdediem problems in the near future.
 
 # Easy Problems
 ## Hash Table Problems
