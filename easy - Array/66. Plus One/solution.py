@@ -44,3 +44,15 @@ class Solution:
             return self.plusOne(digits) + [0]
         else:
             return digits + [num+1]
+        
+    # iteration
+    # https://leetcode.com/problems/plus-one/discuss/24349/Simple-Python-O(n)-Solution-without-converting-to-a-number
+    def plusOne(self, digits: List[int]) -> List[int]:
+        for i in range(len(digits)-1, -1, -1):
+            digits[i] = digits[i] + 1 if digits[i] < 9 else 0
+            if digits[i]:
+                return digits
+            
+        digits.insert(0, 1)
+        
+        return digits
