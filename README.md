@@ -6,7 +6,7 @@ This repository will likely only cover easy and mdediem problems in the near fut
 ## Hash Table Problems
 
 |No.| Problem | Solutions |
-| :-- | :--: |
+| :-- | :--: | :--: |
 |1|[Two Sum](https://leetcode.com/problems/two-sum/)|[link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Hash%20Table/1.%20Two%20Sum)|
 |136|[Single Number](https://leetcode.com/problems/single-number/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Hash%20Table/136.%20Single%20Number)|
 |202|[Happy Number](https://leetcode.com/problems/happy-number/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Hash%20Table/202.%20Happy%20Number)|
@@ -45,8 +45,8 @@ This repository will likely only cover easy and mdediem problems in the near fut
 
 ## Linked List
 
-| No. | Solutions |
-| :-- | :--: |
+| No. | Problem | Solutions |
+| :-- | :--: | :--: |
 |21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Linked%20List/21.%20Merge%20Two%20Sorted%20Lists)|
 |83|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Linked%20List/83.%20Remove%20Duplicates%20from%20Sorted%20List)|
 |141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Linked%20List/141.%20Linked%20List%20Cycle)|
@@ -60,8 +60,8 @@ This repository will likely only cover easy and mdediem problems in the near fut
 
 ## Array
 
-| No. | Solutions |
-| :-- | :--: |
+| No. | Problem | Solutions |
+| :-- | :--: | :--: |
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Array/26.%20Remove%20Duplicates%20from%20Sorted%20Array)|
 |27|[Remove Element](https://leetcode.com/problems/remove-element/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Array/27.%20Remove%20Element)|
 |66|[Plus One](https://leetcode.com/problems/plus-one/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Array/66.%20Plus%20One)|
