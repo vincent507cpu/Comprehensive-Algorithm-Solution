@@ -10,7 +10,6 @@ This repository will likely only cover easy and mdediem problems in the near fut
 |1|[Two Sum](https://leetcode.com/problems/two-sum/)|[link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Hash%20Table/1.%20Two%20Sum)|
 |136|[Single Number](https://leetcode.com/problems/single-number/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Hash%20Table/136.%20Single%20Number)|
 |202|[Happy Number](https://leetcode.com/problems/happy-number/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Hash%20Table/202.%20Happy%20Number)|
-|204|[Count Primes](https://leetcode.com/problems/count-primes/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Hash%20Table/204.%20Count%20Primes)|
 |205|[Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Hash%20Table/205.%20Isomorphic%20Strings)|
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Hash%20Table/217.%20Contains%20Duplicate)|
 |219|[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Hash%20Table/219.%20Contains%20Duplicate%20II)|
@@ -23,7 +22,6 @@ This repository will likely only cover easy and mdediem problems in the near fut
 |389|[Find the Difference](https://leetcode.com/problems/find-the-difference/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Hash%20Table/389.%20Find%20the%20Difference)|
 |409|[Longest Palindrome](https://leetcode.com/problems/longest-palindrome/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Hash%20Table/409.%20Longest%20Palindrome)|
 |447|[Number of Boomerangs](https://leetcode.com/problems/number-of-boomerangs/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Hash%20Table/447.%20Number%20of%20Boomerangs)|
-|463|[Island Perimeter](https://leetcode.com/problems/island-perimeter/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Hash%20Table/463.%20Island%20Perimeter)|
 |500|[Keyboard Row](https://leetcode.com/problems/keyboard-row/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Hash%20Table/500.%20Keyboard%20Row)|
 |575|[Distribute Candies](https://leetcode.com/problems/distribute-candies/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Hash%20Table/575.%20Distribute%20Candies)|
 |594|[Longest Harmonious Subsequence](https://leetcode.com/problems/longest-harmonious-subsequence/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Hash%20Table/594.%20Longest%20Harmonious%20Subsequence)|
@@ -68,3 +66,8 @@ This repository will likely only cover easy and mdediem problems in the near fut
 |27|[Remove Element](https://leetcode.com/problems/remove-element/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Array/27.%20Remove%20Element)|
 |66|[Plus One](https://leetcode.com/problems/plus-one/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Array/66.%20Plus%20One)|
 |88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Array/88.%20Merge%20Sorted%20Array)|
+|204|[Count Primes](https://leetcode.com/problems/count-primes/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Hash%20Table/204.%20Count%20Primes)|
+|217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Array/217.%20Contains%20Duplicate)|
+|219|[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Array/219.%20Contains%20Duplicate%20II)|
+|268|[Missing Number](https://leetcode.com/problems/missing-number/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Array/268.%20Missing%20Number)|
+|463|[Island Perimeter](https://leetcode.com/problems/island-perimeter/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Hash%20Table/463.%20Island%20Perimeter)|
