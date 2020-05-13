@@ -23,7 +23,7 @@ class Solution:
         
     def twoSum(self, numbers: List[int], target: int) -> List[int]:
     # divided and conquer
-        for i in xrange(len(numbers)):
+        for i in range(len(numbers)):
             l, r = i+1, len(numbers)-1
             tmp = target - numbers[i]
             while l <= r:
