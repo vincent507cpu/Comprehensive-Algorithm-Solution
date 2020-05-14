@@ -71,3 +71,6 @@ This repository will likely only cover easy and mdediem problems in the near fut
 |219|[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Array/219.%20Contains%20Duplicate%20II)|
 |268|[Missing Number](https://leetcode.com/problems/missing-number/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Array/268.%20Missing%20Number)|
 |463|[Island Perimeter](https://leetcode.com/problems/island-perimeter/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Hash%20Table/463.%20Island%20Perimeter)|
+|283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Array/283.%20Move%20Zeroes)|
+|414|[Third Maximum Number](https://leetcode.com/problems/third-maximum-number/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Array/414.%20Third%20Maximum%20Number)|
+|448|[Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Array/448.%20Find%20All%20Numbers%20Disappeared%20in%20an%20Array)|
