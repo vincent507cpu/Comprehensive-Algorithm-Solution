@@ -7,7 +7,7 @@ This repository will likely only cover easy and mdediem problems in the near fut
 
 |No.| Problem | Solutions |
 | --: | :--: | :--: |
-|1|[Two Sum](https://leetcode.com/problems/two-sum/)|[link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Hash%20Table/1.%20Two%20Sum)|
+|1|[Two Sum](https://leetcode.com/problems/two-sum/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Hash%20Table/1.%20Two%20Sum)|
 |136|[Single Number](https://leetcode.com/problems/single-number/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Hash%20Table/136.%20Single%20Number)|
 |202|[Happy Number](https://leetcode.com/problems/happy-number/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Hash%20Table/202.%20Happy%20Number)|
 |205|[Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Hash%20Table/205.%20Isomorphic%20Strings)|
