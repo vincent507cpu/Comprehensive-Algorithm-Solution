@@ -74,3 +74,6 @@ This repository will likely only cover easy and mdediem problems in the near fut
 |283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Array/283.%20Move%20Zeroes)|
 |414|[Third Maximum Number](https://leetcode.com/problems/third-maximum-number/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Array/414.%20Third%20Maximum%20Number)|
 |448|[Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Array/448.%20Find%20All%20Numbers%20Disappeared%20in%20an%20Array)|
+|485|[Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Array/485.%20Max%20Consecutive%20Ones)|
+|532|[K-diff Pairs in an Array](https://leetcode.com/problems/k-diff-pairs-in-an-array/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Array/532.%20K-diff%20Pairs%20in%20an%20Array)|
+|561|[Array Partition I](https://leetcode.com/problems/array-partition-i/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Array/561.%20Array%20Partition%20I)|
