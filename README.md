@@ -77,3 +77,6 @@ This repository will likely only cover easy and mdediem problems in the near fut
 |485|[Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Array/485.%20Max%20Consecutive%20Ones)|
 |532|[K-diff Pairs in an Array](https://leetcode.com/problems/k-diff-pairs-in-an-array/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Array/532.%20K-diff%20Pairs%20in%20an%20Array)|
 |561|[Array Partition I](https://leetcode.com/problems/array-partition-i/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Array/561.%20Array%20Partition%20I)|
+|566|[Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Array/566.%20Reshape%20the%20Matrix)|
+|581|[Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Array/581.%20Shortest%20Unsorted%20Continuous%20Subarray)|
+|605|[Can Place Flowers](https://leetcode.com/problems/can-place-flowers/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Array/605.%20Can%20Place%20Flowers)|
