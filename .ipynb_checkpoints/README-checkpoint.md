@@ -80,3 +80,6 @@ This repository will likely only cover easy and mdediem problems in the near fut
 |566|[Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Array/566.%20Reshape%20the%20Matrix)|
 |581|[Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Array/581.%20Shortest%20Unsorted%20Continuous%20Subarray)|
 |605|[Can Place Flowers](https://leetcode.com/problems/can-place-flowers/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Array/605.%20Can%20Place%20Flowers)|
+|643|[Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Array/643.%20Maximum%20Average%20Subarray%20I)|
+|665|[Non-decreasing Array](https://leetcode.com/problems/non-decreasing-array/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Array/665.%20Non-decreasing%20Array)|
+|674|[Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Array/674.%20Longest%20Continuous%20Increasing%20Subsequence)|
