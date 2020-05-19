@@ -46,3 +46,16 @@ class Solution:
         
         # No way to fix the sequence
         return False
+    
+    # easier solution
+    # https://leetcode.com/problems/non-decreasing-array/discuss/106842/The-easiest-python-solution....
+    def checkPossibility(self, nums: List[int]) -> bool:
+        canMod = 1
+        for i, n in enumerate(nums[1:], 1):
+            if nums[i - 1] > n: # we need to fix an inversion, either nums[i - 1] or nums[i], prefer nums[i - 1]
+                if not canMod:
+                    return 0
+                if i > 1 and n < nums[i - 2]: # [3, 5, 2] no choice but to modify myself, otherwise greedily "fix" nums[i - 1]
+                    nums[i] = nums[i - 1]
+                canMod = 0
+        return 1
