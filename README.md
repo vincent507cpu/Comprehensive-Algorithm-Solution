@@ -86,3 +86,6 @@ This repository will likely only cover easy and mdediem problems in the near fut
 |747|[Largest Number At Least Twice of Others](https://leetcode.com/problems/largest-number-at-least-twice-of-others/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Array/747.%20Largest%20Number%20At%20Least%20Twice%20of%20Others)|
 |766|[Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Array/766.%20Toeplitz%20Matrix)|
 |825|[Friends Of Appropriate Ages](https://leetcode.com/problems/friends-of-appropriate-ages/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Array/825.%20Friends%20Of%20Appropriate%20Ages)|
+|830|[Positions of Large Groups](https://leetcode.com/problems/positions-of-large-groups/)|
+
+|832|[Flipping an Image](https://leetcode.com/problems/flipping-an-image/)|
