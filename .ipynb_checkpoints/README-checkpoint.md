@@ -86,3 +86,6 @@ This repository will likely only cover easy and mdediem problems in the near fut
 |747|[Largest Number At Least Twice of Others](https://leetcode.com/problems/largest-number-at-least-twice-of-others/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Array/747.%20Largest%20Number%20At%20Least%20Twice%20of%20Others)|
 |766|[Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Array/766.%20Toeplitz%20Matrix)|
 |825|[Friends Of Appropriate Ages](https://leetcode.com/problems/friends-of-appropriate-ages/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Array/825.%20Friends%20Of%20Appropriate%20Ages)|
+|830|[Positions of Large Groups](https://leetcode.com/problems/positions-of-large-groups/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Array/830.%20Positions%20of%20Large%20Groups)|
+|832|[Flipping an Image](https://leetcode.com/problems/flipping-an-image/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Array/832.%20Flipping%20an%20Image)|
+|840|[Magic Squares In Grid](https://leetcode.com/problems/magic-squares-in-grid/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Array/840.%20Magic%20Squares%20In%20Grid)|
