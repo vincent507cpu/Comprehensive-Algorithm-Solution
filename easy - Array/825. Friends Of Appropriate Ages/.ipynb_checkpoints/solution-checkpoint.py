@@ -1,19 +1,19 @@
-# 
+# https://leetcode.com/problems/friends-of-appropriate-ages/discuss/565958/python-counting-and-then-one-pass
 
 class Solution:
     def numFriendRequests(self, ages: List[int]) -> int:
-        cnt = [0] * 121
+        lst = [0] * 121
         res = 0
         
         for n in ages:
-            cnt[n] += 1
-            
-        for i in range(121):
-            if cnt[i]:
-                low = int(i * 0.5 + 7)
-                res += sum(cnt[i] * cnt[low+1:i])
-                
-                if low < i:
-                    res += cnt[i] * (cnt[i] - 1)
+            lst[n] += 1
+
+        for i, n in enumerate(lst):
+            if n:
+                start = int(i * 0.5 + 7)
+                res += sum(lst[start+1:i] * n)
+                    
+                if start < i:
+                    res += n * (n - 1)
                     
         return res
