@@ -2,8 +2,8 @@
 
 class Solution:
     def findMaxAverage(self, nums: List[int], k: int) -> float:
-        sum = [0] + nums
-        for i in range(len(sum)):
-            sum[i] += sum[i-1]
+        new = [0] + nums
+        for i in range(len(new)):
+            new[i] += new[i-1]
             
-        return max(sum[i+k]-sum[i] for i in range(len(sum)-k)) / k
+        return max(new[i+k]-new[i] for i in range(len(new)-k)) / k
