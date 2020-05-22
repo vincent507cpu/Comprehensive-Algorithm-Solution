@@ -1,5 +1,7 @@
 # https://leetcode.com/problems/magic-squares-in-grid/discuss/208894/Python-Solution
 
+# nested list comprehension:
+# https://spapas.github.io/2016/04/27/python-nested-list-comprehensions/
 class Solution:
     def numMagicSquaresInside(self, grid: List[List[int]]) -> int:
         """
