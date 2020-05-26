@@ -3,7 +3,9 @@
 class Solution:
     def fairCandySwap(self, A: List[int], B: List[int]) -> List[int]:
         diff = (sum(A) - sum(B)) // 2
+        B = set(B)
+        A = set(A)
         
-        for b in set(B):
+        for b in B:
             if b + diff in A:
                 return [b+diff, b]
