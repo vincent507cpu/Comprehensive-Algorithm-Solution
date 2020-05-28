@@ -116,4 +116,4 @@ This repository will likely only cover easy and mdediem problems in the near fut
 |:--:|:--:|:--:|:--:|
 |28|13|[Implement strStr()](https://leetcode.com/problems/implement-strstr/)||
 |125|415|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)||
-|409|627|[Longest Palindrome](https://leetcode.com/problems/longest-palindrome/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Hash%20Table/409.%20Longest%20Palindrome)|
+|409|627|[Longest Palindrome](https://leetcode.com/problems/longest-palindrome/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20String/409.%20Longest%20Palindrome)|
