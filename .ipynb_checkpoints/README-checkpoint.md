@@ -44,69 +44,69 @@ This repository will likely only cover easy and mdediem problems in the near fut
 
 ## Linked List
 
-| No. | Problem | Solutions |
-| --: | :-- | :--: |
-|21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Linked%20List/21.%20Merge%20Two%20Sorted%20Lists)|
-|83|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Linked%20List/83.%20Remove%20Duplicates%20from%20Sorted%20List)|
-|141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Linked%20List/141.%20Linked%20List%20Cycle)|
-|160|[Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Linked%20List/160.%20Intersection%20of%20Two%20Linked%20Lists)|
-|203|[Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Linked%20List/203.%20Remove%20Linked%20List%20Elements)|
-|206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Linked%20List/206.%20Reverse%20Linked%20List)|
-|234|[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Linked%20List/234.%20Palindrome%20Linked%20List)|
-|237|[Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Linked%20List/237.%20Delete%20Node%20in%20a%20Linked%20List)|
-|876|[Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Linked%20List/876.%20Middle%20of%20the%20Linked%20List)|
-|1290|[Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Linked%20List/1290.%20Convert%20Binary%20Number%20in%20a%20Linked%20List%20to%20Integer)|
+| No. | Problem | Solutions |LintCode No.|
+| --: | :-- | :--: | :--:|
+|21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Linked%20List/21.%20Merge%20Two%20Sorted%20Lists)||
+|83|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Linked%20List/83.%20Remove%20Duplicates%20from%20Sorted%20List)||
+|141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Linked%20List/141.%20Linked%20List%20Cycle)||
+|160|[Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Linked%20List/160.%20Intersection%20of%20Two%20Linked%20Lists)||
+|203|[Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Linked%20List/203.%20Remove%20Linked%20List%20Elements)||
+|206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Linked%20List/206.%20Reverse%20Linked%20List)||
+|234|[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Linked%20List/234.%20Palindrome%20Linked%20List)||
+|237|[Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Linked%20List/237.%20Delete%20Node%20in%20a%20Linked%20List)||
+|876|[Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Linked%20List/876.%20Middle%20of%20the%20Linked%20List)||
+|1290|[Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Linked%20List/1290.%20Convert%20Binary%20Number%20in%20a%20Linked%20List%20to%20Integer)||
 
 ## Array
 
-| No. | Problem | Solutions |
-| --: | :-- | :--: |
-|26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Array/26.%20Remove%20Duplicates%20from%20Sorted%20Array)|
-|27|[Remove Element](https://leetcode.com/problems/remove-element/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Array/27.%20Remove%20Element)|
-|66|[Plus One](https://leetcode.com/problems/plus-one/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Array/66.%20Plus%20One)|
-|88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Array/88.%20Merge%20Sorted%20Array)|
-|136|[Single Number](https://leetcode.com/problems/single-number/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Hash%20Table/136.%20Single%20Number)|
-|204|[Count Primes](https://leetcode.com/problems/count-primes/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Hash%20Table/204.%20Count%20Primes)|
-|217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Array/217.%20Contains%20Duplicate)|
-|219|[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Array/219.%20Contains%20Duplicate%20II)|
-|268|[Missing Number](https://leetcode.com/problems/missing-number/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Array/268.%20Missing%20Number)|
-|283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Array/283.%20Move%20Zeroes)|
-|463|[Island Perimeter](https://leetcode.com/problems/island-perimeter/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Hash%20Table/463.%20Island%20Perimeter)|
-|414|[Third Maximum Number](https://leetcode.com/problems/third-maximum-number/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Array/414.%20Third%20Maximum%20Number)|
-|448|[Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Array/448.%20Find%20All%20Numbers%20Disappeared%20in%20an%20Array)|
-|485|[Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Array/485.%20Max%20Consecutive%20Ones)|
-|532|[K-diff Pairs in an Array](https://leetcode.com/problems/k-diff-pairs-in-an-array/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Array/532.%20K-diff%20Pairs%20in%20an%20Array)|
-|561|[Array Partition I](https://leetcode.com/problems/array-partition-i/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Array/561.%20Array%20Partition%20I)|
-|566|[Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Array/566.%20Reshape%20the%20Matrix)|
-|581|[Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Array/581.%20Shortest%20Unsorted%20Continuous%20Subarray)|
-|605|[Can Place Flowers](https://leetcode.com/problems/can-place-flowers/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Array/605.%20Can%20Place%20Flowers)|
-|643|[Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Array/643.%20Maximum%20Average%20Subarray%20I)|
-|665|[Non-decreasing Array](https://leetcode.com/problems/non-decreasing-array/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Array/665.%20Non-decreasing%20Array)|
-|674|[Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Array/674.%20Longest%20Continuous%20Increasing%20Subsequence)|
-|747|[Largest Number At Least Twice of Others](https://leetcode.com/problems/largest-number-at-least-twice-of-others/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Array/747.%20Largest%20Number%20At%20Least%20Twice%20of%20Others)|
-|766|[Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Array/766.%20Toeplitz%20Matrix)|
-|825|[Friends Of Appropriate Ages](https://leetcode.com/problems/friends-of-appropriate-ages/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Array/825.%20Friends%20Of%20Appropriate%20Ages)|
-|830|[Positions of Large Groups](https://leetcode.com/problems/positions-of-large-groups/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Array/830.%20Positions%20of%20Large%20Groups)|
-|832|[Flipping an Image](https://leetcode.com/problems/flipping-an-image/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Array/832.%20Flipping%20an%20Image)|
-|840|[Magic Squares In Grid](https://leetcode.com/problems/magic-squares-in-grid/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Array/840.%20Magic%20Squares%20In%20Grid)|
-|849|[Maximize Distance to Closest Person](https://leetcode.com/problems/maximize-distance-to-closest-person/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Array/849.%20Maximize%20Distance%20to%20Closest%20Person)|
-|867|[Transpose Matrix](https://leetcode.com/problems/transpose-matrix/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Array/867.%20Transpose%20Matrix)|
-|888|[Fair Candy Swap](https://leetcode.com/problems/fair-candy-swap/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Array/888.%20Fair%20Candy%20Swap)|
-|896|[Monotonic Array](https://leetcode.com/problems/monotonic-array/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Array/896.%20Monotonic%20Array)|
-|905|[Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Array/905.%20Sort%20Array%20By%20Parity)|
-|914|[X of a Kind in a Deck of Cards](https://leetcode.com/problems/x-of-a-kind-in-a-deck-of-cards/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Array/914.%20X%20of%20a%20Kind%20in%20a%20Deck%20of%20Cards)|
-|922|[Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Array/922.%20Sort%20Array%20By%20Parity%20II)|
-|941|[Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Array/941.%20Valid%20Mountain%20Array)|
-|977|[Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Array/977.%20Squares%20of%20a%20Sorted%20Array)|
-|985|[Sum of Even Numbers After Queries](https://leetcode.com/problems/sum-of-even-numbers-after-queries/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Array/985.%20Sum%20of%20Even%20Numbers%20After%20Queries)|
-|1010|[Find Common Characters](https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Array/1010.%20Pairs%20of%20Songs%20With%20Total%20Durations%20Divisible%20by%2060)|
-|1018|[Binary Prefix Divisible By 5](https://leetcode.com/problems/binary-prefix-divisible-by-5/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Array/1018.%20Binary%20Prefix%20Divisible%20By%205)|
-|1013|[Partition Array Into Three Parts With Equal Sum](https://leetcode.com/problems/partition-array-into-three-parts-with-equal-sum/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Array/1013.%20Partition%20Array%20Into%20Three%20Parts%20With%20Equal%20Sum)|
-|1051|[Height Checker](https://leetcode.com/problems/height-checker/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Array/1051.%20Height%20Checker)|
-|1089|[Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Array/1089.%20Duplicate%20Zeros)|
-|1122|[Relative Sort Array](https://leetcode.com/problems/relative-sort-array/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Array/1122.%20Relative%20Sort%20Array)|
-|1128|[Number of Equivalent Domino Pairs](https://leetcode.com/problems/number-of-equivalent-domino-pairs/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Array/1128.%20Number%20of%20Equivalent%20Domino%20Pairs)|
-|1287|[Element Appearing More Than 25% In Sorted Array](https://leetcode.com/problems/element-appearing-more-than-25-in-sorted-array/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Array/1287.%20Element%20Appearing%20More%20Than%2025%25%20In%20Sorted%20Array)|
-|1299|[Replace Elements with Greatest Element on Right Side](https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Array/1299.%20Replace%20Elements%20with%20Greatest%20Element%20on%20Right%20Side)|
-|1313|[Decompress Run-Length Encoded List](https://leetcode.com/problems/decompress-run-length-encoded-list/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Array/1313.%20Decompress%20Run-Length%20Encoded%20List)|
-|1331|[Rank Transform of an Array](https://leetcode.com/problems/rank-transform-of-an-array/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Array/1331.%20Rank%20Transform%20of%20an%20Array)|
+| No. | Problem | Solutions | LintCode No.|
+| --: | :-- | :--: | :--: |
+|26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Array/26.%20Remove%20Duplicates%20from%20Sorted%20Array)||
+|27|[Remove Element](https://leetcode.com/problems/remove-element/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Array/27.%20Remove%20Element)||
+|66|[Plus One](https://leetcode.com/problems/plus-one/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Array/66.%20Plus%20One)||
+|88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Array/88.%20Merge%20Sorted%20Array)||
+|136|[Single Number](https://leetcode.com/problems/single-number/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Hash%20Table/136.%20Single%20Number)||
+|204|[Count Primes](https://leetcode.com/problems/count-primes/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Hash%20Table/204.%20Count%20Primes)||
+|217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Array/217.%20Contains%20Duplicate)||
+|219|[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Array/219.%20Contains%20Duplicate%20II)||
+|268|[Missing Number](https://leetcode.com/problems/missing-number/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Array/268.%20Missing%20Number)||
+|283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Array/283.%20Move%20Zeroes)||
+|463|[Island Perimeter](https://leetcode.com/problems/island-perimeter/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Hash%20Table/463.%20Island%20Perimeter)||
+|414|[Third Maximum Number](https://leetcode.com/problems/third-maximum-number/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Array/414.%20Third%20Maximum%20Number)||
+|448|[Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Array/448.%20Find%20All%20Numbers%20Disappeared%20in%20an%20Array)||
+|485|[Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Array/485.%20Max%20Consecutive%20Ones)||
+|532|[K-diff Pairs in an Array](https://leetcode.com/problems/k-diff-pairs-in-an-array/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Array/532.%20K-diff%20Pairs%20in%20an%20Array)||
+|561|[Array Partition I](https://leetcode.com/problems/array-partition-i/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Array/561.%20Array%20Partition%20I)||
+|566|[Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Array/566.%20Reshape%20the%20Matrix)||
+|581|[Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Array/581.%20Shortest%20Unsorted%20Continuous%20Subarray)||
+|605|[Can Place Flowers](https://leetcode.com/problems/can-place-flowers/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Array/605.%20Can%20Place%20Flowers)||
+|643|[Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Array/643.%20Maximum%20Average%20Subarray%20I)||
+|665|[Non-decreasing Array](https://leetcode.com/problems/non-decreasing-array/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Array/665.%20Non-decreasing%20Array)||
+|674|[Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Array/674.%20Longest%20Continuous%20Increasing%20Subsequence)||
+|747|[Largest Number At Least Twice of Others](https://leetcode.com/problems/largest-number-at-least-twice-of-others/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Array/747.%20Largest%20Number%20At%20Least%20Twice%20of%20Others)||
+|766|[Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Array/766.%20Toeplitz%20Matrix)||
+|825|[Friends Of Appropriate Ages](https://leetcode.com/problems/friends-of-appropriate-ages/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Array/825.%20Friends%20Of%20Appropriate%20Ages)||
+|830|[Positions of Large Groups](https://leetcode.com/problems/positions-of-large-groups/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Array/830.%20Positions%20of%20Large%20Groups)||
+|832|[Flipping an Image](https://leetcode.com/problems/flipping-an-image/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Array/832.%20Flipping%20an%20Image)||
+|840|[Magic Squares In Grid](https://leetcode.com/problems/magic-squares-in-grid/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Array/840.%20Magic%20Squares%20In%20Grid)||
+|849|[Maximize Distance to Closest Person](https://leetcode.com/problems/maximize-distance-to-closest-person/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Array/849.%20Maximize%20Distance%20to%20Closest%20Person)||
+|867|[Transpose Matrix](https://leetcode.com/problems/transpose-matrix/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Array/867.%20Transpose%20Matrix)||
+|888|[Fair Candy Swap](https://leetcode.com/problems/fair-candy-swap/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Array/888.%20Fair%20Candy%20Swap)||
+|896|[Monotonic Array](https://leetcode.com/problems/monotonic-array/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Array/896.%20Monotonic%20Array)||
+|905|[Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Array/905.%20Sort%20Array%20By%20Parity)||
+|914|[X of a Kind in a Deck of Cards](https://leetcode.com/problems/x-of-a-kind-in-a-deck-of-cards/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Array/914.%20X%20of%20a%20Kind%20in%20a%20Deck%20of%20Cards)||
+|922|[Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Array/922.%20Sort%20Array%20By%20Parity%20II)||
+|941|[Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Array/941.%20Valid%20Mountain%20Array)||
+|977|[Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Array/977.%20Squares%20of%20a%20Sorted%20Array)||
+|985|[Sum of Even Numbers After Queries](https://leetcode.com/problems/sum-of-even-numbers-after-queries/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Array/985.%20Sum%20of%20Even%20Numbers%20After%20Queries)||
+|1010|[Find Common Characters](https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Array/1010.%20Pairs%20of%20Songs%20With%20Total%20Durations%20Divisible%20by%2060)||
+|1018|[Binary Prefix Divisible By 5](https://leetcode.com/problems/binary-prefix-divisible-by-5/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Array/1018.%20Binary%20Prefix%20Divisible%20By%205)||
+|1013|[Partition Array Into Three Parts With Equal Sum](https://leetcode.com/problems/partition-array-into-three-parts-with-equal-sum/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Array/1013.%20Partition%20Array%20Into%20Three%20Parts%20With%20Equal%20Sum)||
+|1051|[Height Checker](https://leetcode.com/problems/height-checker/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Array/1051.%20Height%20Checker)||
+|1089|[Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Array/1089.%20Duplicate%20Zeros)||
+|1122|[Relative Sort Array](https://leetcode.com/problems/relative-sort-array/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Array/1122.%20Relative%20Sort%20Array)||
+|1128|[Number of Equivalent Domino Pairs](https://leetcode.com/problems/number-of-equivalent-domino-pairs/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Array/1128.%20Number%20of%20Equivalent%20Domino%20Pairs)||
+|1287|[Element Appearing More Than 25% In Sorted Array](https://leetcode.com/problems/element-appearing-more-than-25-in-sorted-array/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Array/1287.%20Element%20Appearing%20More%20Than%2025%25%20In%20Sorted%20Array)||
+|1299|[Replace Elements with Greatest Element on Right Side](https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Array/1299.%20Replace%20Elements%20with%20Greatest%20Element%20on%20Right%20Side)||
+|1313|[Decompress Run-Length Encoded List](https://leetcode.com/problems/decompress-run-length-encoded-list/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Array/1313.%20Decompress%20Run-Length%20Encoded%20List)||
+|1331|[Rank Transform of an Array](https://leetcode.com/problems/rank-transform-of-an-array/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Array/1331.%20Rank%20Transform%20of%20an%20Array)||
