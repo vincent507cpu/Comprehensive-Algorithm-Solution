@@ -5,7 +5,7 @@ This repository will likely only cover easy and mdediem problems in the near fut
 # Easy Problems
 ## Hash Table Problems
 
-|No.| Problem | Solutions | LintCode No.|
+|LeetCode No.| Problem | Solutions | LintCode No.|
 | --: | :-- | :--: | :--:|
 |1|[Two Sum](https://leetcode.com/problems/two-sum/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Hash%20Table/1.%20Two%20Sum)||
 |202|[Happy Number](https://leetcode.com/problems/happy-number/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Hash%20Table/202.%20Happy%20Number)||
@@ -44,7 +44,7 @@ This repository will likely only cover easy and mdediem problems in the near fut
 
 ## Linked List
 
-| No. | Problem | Solutions |LintCode No.|
+| LeetCode No. | Problem | Solutions |LintCode No.|
 | --: | :-- | :--: | :--:|
 |21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Linked%20List/21.%20Merge%20Two%20Sorted%20Lists)||
 |83|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Linked%20List/83.%20Remove%20Duplicates%20from%20Sorted%20List)||
@@ -59,7 +59,7 @@ This repository will likely only cover easy and mdediem problems in the near fut
 
 ## Array
 
-| No. | Problem | Solutions | LintCode No.|
+| LeetCode No. | Problem | Solutions | LintCode No.|
 | --: | :-- | :--: | :--: |
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Array/26.%20Remove%20Duplicates%20from%20Sorted%20Array)||
 |27|[Remove Element](https://leetcode.com/problems/remove-element/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Array/27.%20Remove%20Element)||
@@ -110,3 +110,10 @@ This repository will likely only cover easy and mdediem problems in the near fut
 |1299|[Replace Elements with Greatest Element on Right Side](https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Array/1299.%20Replace%20Elements%20with%20Greatest%20Element%20on%20Right%20Side)||
 |1313|[Decompress Run-Length Encoded List](https://leetcode.com/problems/decompress-run-length-encoded-list/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Array/1313.%20Decompress%20Run-Length%20Encoded%20List)||
 |1331|[Rank Transform of an Array](https://leetcode.com/problems/rank-transform-of-an-array/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Array/1331.%20Rank%20Transform%20of%20an%20Array)||
+
+## String
+
+|LeetCode No.|LintCode No.|Problem|Solution|
+|:--:|:--:|:--:|:--:|
+|28|13|[Implement strStr()](https://leetcode.com/problems/implement-strstr/)||
+|125|415|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)||
