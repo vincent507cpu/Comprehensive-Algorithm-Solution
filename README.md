@@ -8,7 +8,6 @@ This repository will likely only cover easy and mdediem problems in the near fut
 |No.| Problem | Solutions |
 | --: | :-- | :--: |
 |1|[Two Sum](https://leetcode.com/problems/two-sum/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Hash%20Table/1.%20Two%20Sum)|
-|136|[Single Number](https://leetcode.com/problems/single-number/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Hash%20Table/136.%20Single%20Number)|
 |202|[Happy Number](https://leetcode.com/problems/happy-number/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Hash%20Table/202.%20Happy%20Number)|
 |205|[Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Hash%20Table/205.%20Isomorphic%20Strings)|
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Hash%20Table/217.%20Contains%20Duplicate)|
@@ -66,6 +65,7 @@ This repository will likely only cover easy and mdediem problems in the near fut
 |27|[Remove Element](https://leetcode.com/problems/remove-element/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Array/27.%20Remove%20Element)|
 |66|[Plus One](https://leetcode.com/problems/plus-one/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Array/66.%20Plus%20One)|
 |88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Array/88.%20Merge%20Sorted%20Array)|
+|136|[Single Number](https://leetcode.com/problems/single-number/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Hash%20Table/136.%20Single%20Number)|
 |204|[Count Primes](https://leetcode.com/problems/count-primes/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Hash%20Table/204.%20Count%20Primes)|
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Array/217.%20Contains%20Duplicate)|
 |219|[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Array/219.%20Contains%20Duplicate%20II)|
