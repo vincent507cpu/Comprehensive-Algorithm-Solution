@@ -17,6 +17,18 @@ class Solution:
         elif odd:
             return max(odd) - len(odd) + 1
         
+    # more concise solution
+    def longestPalindrome(self, s: str) -> int:
+        if not s:
+            return 0
+            
+        letters = set(s)
+        
+        even = sum([s.count(x) for x in letters if s.count(x) % 2 == 0])
+        odd = [s.count(x) for x in letters if s.count(x) % 2 == 1]
+        
+        return even + sum(odd) - len(odd) + 1 if odd else even
+        
     ##################################################
     # Counter() solution.
     # Personally I try to use only built-in functions.
