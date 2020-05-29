@@ -105,10 +105,15 @@ This repository will likely only cover easy and mdediem problems in the near fut
 |1089|[Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Array/1089.%20Duplicate%20Zeros)||
 |1122|[Relative Sort Array](https://leetcode.com/problems/relative-sort-array/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Array/1122.%20Relative%20Sort%20Array)||
 |1128|[Number of Equivalent Domino Pairs](https://leetcode.com/problems/number-of-equivalent-domino-pairs/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Array/1128.%20Number%20of%20Equivalent%20Domino%20Pairs)||
+|1170|1705|[Compare Strings by Frequency of the Smallest Character](https://leetcode.com/problems/compare-strings-by-frequency-of-the-smallest-character/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Array/1170.%20Compare%20Strings%20by%20Frequency%20of%20the%20Smallest%20Character)|
+|1184||[Distance Between Bus Stops](https://leetcode.com/problems/distance-between-bus-stops/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Array/1184.%20Distance%20Between%20Bus%20Stops)|
+|1200||[Minimum Absolute Difference](https://leetcode.com/problems/minimum-absolute-difference/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Array/1200.%20Minimum%20Absolute%20Difference)|
+|1260||[Shift 2D Grid](https://leetcode.com/problems/shift-2d-grid/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Array/1260.%20Shift%202D%20Grid)|
 |1287|[Element Appearing More Than 25% In Sorted Array](https://leetcode.com/problems/element-appearing-more-than-25-in-sorted-array/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Array/1287.%20Element%20Appearing%20More%20Than%2025%25%20In%20Sorted%20Array)||
 |1299|[Replace Elements with Greatest Element on Right Side](https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Array/1299.%20Replace%20Elements%20with%20Greatest%20Element%20on%20Right%20Side)||
 |1313|[Decompress Run-Length Encoded List](https://leetcode.com/problems/decompress-run-length-encoded-list/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Array/1313.%20Decompress%20Run-Length%20Encoded%20List)||
 |1331|[Rank Transform of an Array](https://leetcode.com/problems/rank-transform-of-an-array/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Array/1331.%20Rank%20Transform%20of%20an%20Array)||
+
 
 ## String
 
