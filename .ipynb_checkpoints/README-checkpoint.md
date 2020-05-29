@@ -119,6 +119,7 @@ This repository will likely only cover easy and mdediem problems in the near fut
 
 |LeetCode No.|LintCode No.|Problem|Solution|
 |:--:|:--:|:--:|:--:|
+|5|200|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20String/5.%20Longest%20Palindromic%20Substring.%20)|
 |28|13|[Implement strStr()](https://leetcode.com/problems/implement-strstr/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20String/28.%20Implement%20strStr())|
 |125|415|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20String/125.%20Valid%20Palindrome)|
 |409|627|[Longest Palindrome](https://leetcode.com/problems/longest-palindrome/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20String/409.%20Longest%20Palindrome)|
