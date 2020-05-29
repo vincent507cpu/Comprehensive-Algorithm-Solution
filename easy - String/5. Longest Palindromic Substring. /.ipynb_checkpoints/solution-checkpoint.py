@@ -31,11 +31,11 @@ class Solution:
             
         start, long = 0, 1
         for length in range(2, n + 1):
-            for i inrange(n - length + 1):
+            for i in range(n - length + 1):
                 j = i + length - 1
                 is_palindrom[i][j] = is_palindrom[i + 1][j - 1] and s[i] == s[j]
                 if is_palindrom[i][j] and length > long:
                     long = length
                     start = i
                     
-        return s[start:start + length]
+        return s[start:start + long]
