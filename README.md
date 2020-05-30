@@ -110,12 +110,12 @@ This repository will likely only cover easy and mdediem problems in the near fut
 |1184||[Distance Between Bus Stops](https://leetcode.com/problems/distance-between-bus-stops/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Array/1184.%20Distance%20Between%20Bus%20Stops)|
 |1200||[Minimum Absolute Difference](https://leetcode.com/problems/minimum-absolute-difference/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Array/1200.%20Minimum%20Absolute%20Difference)|
 |1260||[Shift 2D Grid](https://leetcode.com/problems/shift-2d-grid/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Array/1260.%20Shift%202D%20Grid)|
-|1266||[Minimum Time Visiting All Points](https://leetcode.com/problems/minimum-time-visiting-all-points/)|[Link]()|
-|1295||[Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/)||
-|1275||[Find Winner on a Tic Tac Toe Game](https://leetcode.com/problems/find-winner-on-a-tic-tac-toe-game/)||
+|1266||[Minimum Time Visiting All Points](https://leetcode.com/problems/minimum-time-visiting-all-points/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Array/1266.%20Minimum%20Time%20Visiting%20All%20Points)|
+|1275||[Find Winner on a Tic Tac Toe Game](https://leetcode.com/problems/find-winner-on-a-tic-tac-toe-game/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Array/1275.%20Find%20Winner%20on%20a%20Tic%20Tac%20Toe%20Game)|
 |1287|[Element Appearing More Than 25% In Sorted Array](https://leetcode.com/problems/element-appearing-more-than-25-in-sorted-array/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Array/1287.%20Element%20Appearing%20More%20Than%2025%25%20In%20Sorted%20Array)||
+|1295||[Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Array/1295.%20Find%20Numbers%20with%20Even%20Number%20of%20Digits)|
 |1299|[Replace Elements with Greatest Element on Right Side](https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Array/1299.%20Replace%20Elements%20with%20Greatest%20Element%20on%20Right%20Side)||
-|1304||[Find N Unique Integers Sum up to Zero](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/)||
+|1304||[Find N Unique Integers Sum up to Zero](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Array/1304.%20Find%20N%20Unique%20Integers%20Sum%20up%20to%20Zero)|
 |1313|[Decompress Run-Length Encoded List](https://leetcode.com/problems/decompress-run-length-encoded-list/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Array/1313.%20Decompress%20Run-Length%20Encoded%20List)||
 |1331|[Rank Transform of an Array](https://leetcode.com/problems/rank-transform-of-an-array/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Array/1331.%20Rank%20Transform%20of%20an%20Array)||
 
