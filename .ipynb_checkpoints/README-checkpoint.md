@@ -5,9 +5,10 @@ This repository will likely only cover easy and mdediem problems in the near fut
 # Easy Problems
 ## Hash Table Problems
 
-|LeetCode No.| Problem | Solutions | LintCode No.|
+|LeetCode No.| LintCode No.| Problem | Solutions |
 | --: | :-- | :--: | :--:|
 |1|[Two Sum](https://leetcode.com/problems/two-sum/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Hash%20Table/1.%20Two%20Sum)||
+|167|608|[Two Sum II ](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Hash%20Table/167.%20Two%20Sum%20II%20-%20Input%20array%20is%20sorted)|
 |202|[Happy Number](https://leetcode.com/problems/happy-number/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Hash%20Table/202.%20Happy%20Number)||
 |205|[Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Hash%20Table/205.%20Isomorphic%20Strings)||
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Hash%20Table/217.%20Contains%20Duplicate)||
@@ -109,6 +110,8 @@ This repository will likely only cover easy and mdediem problems in the near fut
 |1184||[Distance Between Bus Stops](https://leetcode.com/problems/distance-between-bus-stops/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Array/1184.%20Distance%20Between%20Bus%20Stops)|
 |1200||[Minimum Absolute Difference](https://leetcode.com/problems/minimum-absolute-difference/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Array/1200.%20Minimum%20Absolute%20Difference)|
 |1260||[Shift 2D Grid](https://leetcode.com/problems/shift-2d-grid/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Array/1260.%20Shift%202D%20Grid)|
+|1266||[Minimum Time Visiting All Points](https://leetcode.com/problems/minimum-time-visiting-all-points/)|[Link]()|
+|1295||[Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/)||
 |1287|[Element Appearing More Than 25% In Sorted Array](https://leetcode.com/problems/element-appearing-more-than-25-in-sorted-array/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Array/1287.%20Element%20Appearing%20More%20Than%2025%25%20In%20Sorted%20Array)||
 |1299|[Replace Elements with Greatest Element on Right Side](https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Array/1299.%20Replace%20Elements%20with%20Greatest%20Element%20on%20Right%20Side)||
 |1313|[Decompress Run-Length Encoded List](https://leetcode.com/problems/decompress-run-length-encoded-list/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Array/1313.%20Decompress%20Run-Length%20Encoded%20List)||

@@ -18,3 +18,10 @@ class Solution:
             dct[n] = dct.get(n, len(dct) + 1)
             
         return [dct[x] for x in arr]
+    
+    # more simpler solution
+    def arrayRankTransform(self, arr: List[int]) -> List[int]:
+        tmp = sorted(set(arr))
+        dct = {n:i+1 for i, n in enumerate(tmp)}
+
+        return [dct[n] for n in arr]
