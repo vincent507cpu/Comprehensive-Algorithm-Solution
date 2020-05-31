@@ -118,6 +118,10 @@ This repository will likely only cover easy and mdediem problems in the near fut
 |1304||[Find N Unique Integers Sum up to Zero](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Array/1304.%20Find%20N%20Unique%20Integers%20Sum%20up%20to%20Zero)|
 |1313|[Decompress Run-Length Encoded List](https://leetcode.com/problems/decompress-run-length-encoded-list/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Array/1313.%20Decompress%20Run-Length%20Encoded%20List)||
 |1331|[Rank Transform of an Array](https://leetcode.com/problems/rank-transform-of-an-array/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Array/1331.%20Rank%20Transform%20of%20an%20Array)||
+|1337||[The K Weakest Rows in a Matrix](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Array/1337.%20The%20K%20Weakest%20Rows%20in%20a%20Matrix)|
+|1346||[Check If N and Its Double Exist](https://leetcode.com/problems/check-if-n-and-its-double-exist/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Array/1346.%20Check%20If%20N%20and%20Its%20Double%20Exist)|
+|1351||[Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Array/1351.%20Count%20Negative%20Numbers%20in%20a%20Sorted%20Matrix)|
+|1385||[Find the Distance Value Between Two Arrays](https://leetcode.com/problems/find-the-distance-value-between-two-arrays/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Array/1385.%20Find%20the%20Distance%20Value%20Between%20Two%20Arrays)|
 
 
 ## String
