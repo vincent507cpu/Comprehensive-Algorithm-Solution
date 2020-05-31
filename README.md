@@ -121,6 +121,7 @@ This repository will likely only cover easy and mdediem problems in the near fut
 |1337||[The K Weakest Rows in a Matrix](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Array/1337.%20The%20K%20Weakest%20Rows%20in%20a%20Matrix)|
 |1346||[Check If N and Its Double Exist](https://leetcode.com/problems/check-if-n-and-its-double-exist/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Array/1346.%20Check%20If%20N%20and%20Its%20Double%20Exist)|
 |1351||[Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Array/1351.%20Count%20Negative%20Numbers%20in%20a%20Sorted%20Matrix)|
+|1380||[Lucky Numbers in a Matrix](https://leetcode.com/problems/lucky-numbers-in-a-matrix/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Array/1380.%20Lucky%20Numbers%20in%20a%20Matrix)|
 |1385||[Find the Distance Value Between Two Arrays](https://leetcode.com/problems/find-the-distance-value-between-two-arrays/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Array/1385.%20Find%20the%20Distance%20Value%20Between%20Two%20Arrays)|
 
 
