@@ -44,18 +44,18 @@ This repository will likely only cover easy and mdediem problems in the near fut
 
 ## Linked List
 
-| LeetCode No. | Problem | Solutions |LintCode No.|
+| LeetCode No. | LintCode No.| Problem | Solutions |
 | --: | :-- | :--: | :--:|
-|21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Linked%20List/21.%20Merge%20Two%20Sorted%20Lists)||
-|83|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Linked%20List/83.%20Remove%20Duplicates%20from%20Sorted%20List)||
-|141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Linked%20List/141.%20Linked%20List%20Cycle)||
-|160|[Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Linked%20List/160.%20Intersection%20of%20Two%20Linked%20Lists)||
-|203|[Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Linked%20List/203.%20Remove%20Linked%20List%20Elements)||
-|206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Linked%20List/206.%20Reverse%20Linked%20List)||
-|234|[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Linked%20List/234.%20Palindrome%20Linked%20List)||
-|237|[Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Linked%20List/237.%20Delete%20Node%20in%20a%20Linked%20List)||
-|876|[Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Linked%20List/876.%20Middle%20of%20the%20Linked%20List)||
-|1290|[Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Linked%20List/1290.%20Convert%20Binary%20Number%20in%20a%20Linked%20List%20to%20Integer)||
+|21||[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Linked%20List/21.%20Merge%20Two%20Sorted%20Lists)|
+|83||[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Linked%20List/83.%20Remove%20Duplicates%20from%20Sorted%20List)|
+|141||[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Linked%20List/141.%20Linked%20List%20Cycle)|
+|160||[Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Linked%20List/160.%20Intersection%20of%20Two%20Linked%20Lists)|
+|203||[Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Linked%20List/203.%20Remove%20Linked%20List%20Elements)|
+|206||[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Linked%20List/206.%20Reverse%20Linked%20List)|
+|234||[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Linked%20List/234.%20Palindrome%20Linked%20List)|
+|237||[Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Linked%20List/237.%20Delete%20Node%20in%20a%20Linked%20List)|
+|876||[Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Linked%20List/876.%20Middle%20of%20the%20Linked%20List)|
+|1290||[Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Linked%20List/1290.%20Convert%20Binary%20Number%20in%20a%20Linked%20List%20to%20Integer)|
 
 ## Array
 
