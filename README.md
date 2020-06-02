@@ -138,3 +138,8 @@ This repository will likely only cover easy and mdediem problems in the near fut
 |125|415|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20String/125.%20Valid%20Palindrome)|
 |409|627|[Longest Palindrome](https://leetcode.com/problems/longest-palindrome/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20String/409.%20Longest%20Palindrome)|
 |680|891|[Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/)|[Link](https://github.com/vincent507cpu/LeetCode-Comprehensive-Solution/tree/master/easy%20-%20String/680.%20Valid%20Palindrome%20II)|
+
+## LintCode
+|LeetCode No.|LintCode No.|Problem|Solution|
+|--:|--:|:--:|:--:|
+|1099 (locked)|609|[Two Sum - Less than or equal to target](https://www.lintcode.com/problem/two-sum-less-than-or-equal-to-target/description)|[Link](https://github.com/vincent507cpu/LeetCode-Comprehensive-Solution/tree/master/LintCode/609.%20Two%20Sum%20-%20Less%20than%20or%20equal%20to%20target)|
