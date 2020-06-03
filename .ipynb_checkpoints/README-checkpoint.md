@@ -104,7 +104,7 @@ This repository will likely only cover easy and mdediem problems in the near fut
 |1013||[Partition Array Into Three Parts With Equal Sum](https://leetcode.com/problems/partition-array-into-three-parts-with-equal-sum/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Array/1013.%20Partition%20Array%20Into%20Three%20Parts%20With%20Equal%20Sum)|
 |1051||[Height Checker](https://leetcode.com/problems/height-checker/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Array/1051.%20Height%20Checker)|
 |1089||[Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Array/1089.%20Duplicate%20Zeros)|
-|1099|609|[Two Sum Less Than K](https://www.lintcode.com/problem/two-sum-less-than-or-equal-to-target/description)(LintCode)|[Link]()|
+|1099|609|[Two Sum Less Than K](https://www.lintcode.com/problem/two-sum-less-than-or-equal-to-target/description) (LintCode)|[Link]()|
 |1122||[Relative Sort Array](https://leetcode.com/problems/relative-sort-array/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Array/1122.%20Relative%20Sort%20Array)|
 |1128||[Number of Equivalent Domino Pairs](https://leetcode.com/problems/number-of-equivalent-domino-pairs/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Array/1128.%20Number%20of%20Equivalent%20Domino%20Pairs)|
 |1170|1705|[Compare Strings by Frequency of the Smallest Character](https://leetcode.com/problems/compare-strings-by-frequency-of-the-smallest-character/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Array/1170.%20Compare%20Strings%20by%20Frequency%20of%20the%20Smallest%20Character)|
@@ -144,6 +144,10 @@ This repository will likely only cover easy and mdediem problems in the near fut
 |--:|--:|:--:|:--:|
 |5|215|[Kth Largest Element](https://www.lintcode.com/problem/kth-largest-element/description)|[Link](https://github.com/vincent507cpu/LeetCode-Comprehensive-Solution/tree/master/LintCode/5.%20Kth%20Largest%20Element)|
 |6|21|[Merge Two Sorted Arrays](https://www.lintcode.com/problem/merge-two-sorted-arrays/description)|[Link](https://github.com/vincent507cpu/LeetCode-Comprehensive-Solution/tree/master/LintCode/6.%20Merge%20Two%20Sorted%20Arrays)|
+|14||[First Position of Target](https://www.lintcode.com/problem/first-position-of-target/description)|[Link]|
 |148|75|[Sort Colors](https://www.lintcode.com/problem/sort-colors/description)|[Link](https://github.com/vincent507cpu/LeetCode-Comprehensive-Solution/tree/master/LintCode/148.%20Sort%20Colors)|
+|366|509|[Fibonacci](https://www.lintcode.com/problem/fibonacci/description)|[Link]|
 |464||[Sort Integers II](https://www.lintcode.com/problem/sort-integers-ii/description)|[Link](https://github.com/vincent507cpu/LeetCode-Comprehensive-Solution/tree/master/LintCode/464.%20Sort%20Integers%20II)|
+|457||[Classical Binary Search](https://www.lintcode.com/problem/classical-binary-search/description)|[Link]|
+|458||[Last Position of Target](https://www.lintcode.com/problem/last-position-of-target/description)|[Link]|
 |609|1099 (locked)|[Two Sum - Less than or equal to target](https://www.lintcode.com/problem/two-sum-less-than-or-equal-to-target/description)|[Link](https://github.com/vincent507cpu/LeetCode-Comprehensive-Solution/tree/master/LintCode/609.%20Two%20Sum%20-%20Less%20than%20or%20equal%20to%20target)|
