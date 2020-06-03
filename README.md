@@ -140,7 +140,10 @@ This repository will likely only cover easy and mdediem problems in the near fut
 |680|891|[Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/)|[Link](https://github.com/vincent507cpu/LeetCode-Comprehensive-Solution/tree/master/easy%20-%20String/680.%20Valid%20Palindrome%20II)|
 
 ## LintCode
-|LeetCode No.|LintCode No.|Problem|Solution|
+|LintCode No.|LeetCode No.|Problem|Solution|
 |--:|--:|:--:|:--:|
-|6||[Merge Two Sorted Arrays](https://www.lintcode.com/problem/merge-two-sorted-arrays/description)|[Link](https://github.com/vincent507cpu/LeetCode-Comprehensive-Solution/tree/master/LintCode/6.%20Merge%20Two%20Sorted%20Arrays)|
-|1099 (locked)|609|[Two Sum - Less than or equal to target](https://www.lintcode.com/problem/two-sum-less-than-or-equal-to-target/description)|[Link](https://github.com/vincent507cpu/LeetCode-Comprehensive-Solution/tree/master/LintCode/609.%20Two%20Sum%20-%20Less%20than%20or%20equal%20to%20target)|
+|5|215|[Kth Largest Element](https://www.lintcode.com/problem/kth-largest-element/description)|[Link](https://github.com/vincent507cpu/LeetCode-Comprehensive-Solution/tree/master/LintCode/5.%20Kth%20Largest%20Element)|
+|6|21|[Merge Two Sorted Arrays](https://www.lintcode.com/problem/merge-two-sorted-arrays/description)|[Link](https://github.com/vincent507cpu/LeetCode-Comprehensive-Solution/tree/master/LintCode/6.%20Merge%20Two%20Sorted%20Arrays)|
+|148|75|[Sort Colors](https://www.lintcode.com/problem/sort-colors/description)|[Link](https://github.com/vincent507cpu/LeetCode-Comprehensive-Solution/tree/master/LintCode/148.%20Sort%20Colors)|
+|464||[Sort Integers II](https://www.lintcode.com/problem/sort-integers-ii/description)|[Link](https://github.com/vincent507cpu/LeetCode-Comprehensive-Solution/tree/master/LintCode/464.%20Sort%20Integers%20II)|
+609||1099 (locked)|[Two Sum - Less than or equal to target](https://www.lintcode.com/problem/two-sum-less-than-or-equal-to-target/description)|[Link](https://github.com/vincent507cpu/LeetCode-Comprehensive-Solution/tree/master/LintCode/609.%20Two%20Sum%20-%20Less%20than%20or%20equal%20to%20target)|
