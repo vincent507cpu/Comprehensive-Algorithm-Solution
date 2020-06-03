@@ -142,4 +142,5 @@ This repository will likely only cover easy and mdediem problems in the near fut
 ## LintCode
 |LeetCode No.|LintCode No.|Problem|Solution|
 |--:|--:|:--:|:--:|
+|6||[Merge Two Sorted Arrays](https://www.lintcode.com/problem/merge-two-sorted-arrays/description)|[Link](https://github.com/vincent507cpu/LeetCode-Comprehensive-Solution/tree/master/LintCode/6.%20Merge%20Two%20Sorted%20Arrays)|
 |1099 (locked)|609|[Two Sum - Less than or equal to target](https://www.lintcode.com/problem/two-sum-less-than-or-equal-to-target/description)|[Link](https://github.com/vincent507cpu/LeetCode-Comprehensive-Solution/tree/master/LintCode/609.%20Two%20Sum%20-%20Less%20than%20or%20equal%20to%20target)|
