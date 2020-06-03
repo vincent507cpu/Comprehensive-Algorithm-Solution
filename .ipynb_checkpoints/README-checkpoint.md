@@ -144,10 +144,11 @@ This repository will likely only cover easy and mdediem problems in the near fut
 |--:|--:|:--:|:--:|
 |5|215|[Kth Largest Element](https://www.lintcode.com/problem/kth-largest-element/description)|[Link](https://github.com/vincent507cpu/LeetCode-Comprehensive-Solution/tree/master/LintCode/5.%20Kth%20Largest%20Element)|
 |6|21|[Merge Two Sorted Arrays](https://www.lintcode.com/problem/merge-two-sorted-arrays/description)|[Link](https://github.com/vincent507cpu/LeetCode-Comprehensive-Solution/tree/master/LintCode/6.%20Merge%20Two%20Sorted%20Arrays)|
-|14||[First Position of Target](https://www.lintcode.com/problem/first-position-of-target/description)|[Link]|
+|14||[First Position of Target](https://www.lintcode.com/problem/first-position-of-target/description)|[Link](https://github.com/vincent507cpu/LeetCode-Comprehensive-Solution/tree/master/LintCode/14.%20First%20Position%20of%20Target)|
 |148|75|[Sort Colors](https://www.lintcode.com/problem/sort-colors/description)|[Link](https://github.com/vincent507cpu/LeetCode-Comprehensive-Solution/tree/master/LintCode/148.%20Sort%20Colors)|
-|366|509|[Fibonacci](https://www.lintcode.com/problem/fibonacci/description)|[Link]|
+|366|509|[Fibonacci](https://www.lintcode.com/problem/fibonacci/description)|[Link](https://github.com/vincent507cpu/LeetCode-Comprehensive-Solution/tree/master/LintCode/366.%20Fibonacci)|
 |464||[Sort Integers II](https://www.lintcode.com/problem/sort-integers-ii/description)|[Link](https://github.com/vincent507cpu/LeetCode-Comprehensive-Solution/tree/master/LintCode/464.%20Sort%20Integers%20II)|
-|457||[Classical Binary Search](https://www.lintcode.com/problem/classical-binary-search/description)|[Link]|
-|458||[Last Position of Target](https://www.lintcode.com/problem/last-position-of-target/description)|[Link]|
+|457||[Classical Binary Search](https://www.lintcode.com/problem/classical-binary-search/description)|[Link](https://github.com/vincent507cpu/LeetCode-Comprehensive-Solution/tree/master/LintCode/457.%20Classical%20Binary%20Search)|
+|458||[Last Position of Target](https://www.lintcode.com/problem/last-position-of-target/description)|[Link](https://github.com/vincent507cpu/LeetCode-Comprehensive-Solution/tree/master/LintCode/458.%20Last%20Position%20of%20Target)|
+|585|852|[Maximum Number in Mountain Sequence](https://www.lintcode.com/problem/maximum-number-in-mountain-sequence/description)|[Link](https://github.com/vincent507cpu/LeetCode-Comprehensive-Solution/tree/master/LintCode/585.%20Maximum%20Number%20in%20Mountain%20Sequence)|
 |609|1099 (locked)|[Two Sum - Less than or equal to target](https://www.lintcode.com/problem/two-sum-less-than-or-equal-to-target/description)|[Link](https://github.com/vincent507cpu/LeetCode-Comprehensive-Solution/tree/master/LintCode/609.%20Two%20Sum%20-%20Less%20than%20or%20equal%20to%20target)|
