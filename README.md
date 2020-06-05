@@ -139,7 +139,7 @@ This repository will likely only cover easy and medium problems in the near futu
 |409|627|[Longest Palindrome](https://leetcode.com/problems/longest-palindrome/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20String/409.%20Longest%20Palindrome)|
 |680|891|[Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/)|[Link](https://github.com/vincent507cpu/LeetCode-Comprehensive-Solution/tree/master/easy%20-%20String/680.%20Valid%20Palindrome%20II)|
 
-## LintCode
+# LintCode
 |LintCode No.|LeetCode No.|Problem|Solution|
 |--:|--:|:--:|:--:|
 |5|215|[Kth Largest Element](https://www.lintcode.com/problem/kth-largest-element/description)|[Link](https://github.com/vincent507cpu/LeetCode-Comprehensive-Solution/tree/master/LintCode/5.%20Kth%20Largest%20Element)|
@@ -152,3 +152,12 @@ This repository will likely only cover easy and medium problems in the near futu
 |458||[Last Position of Target](https://www.lintcode.com/problem/last-position-of-target/description)|[Link](https://github.com/vincent507cpu/LeetCode-Comprehensive-Solution/tree/master/LintCode/458.%20Last%20Position%20of%20Target)|
 |585|852|[Maximum Number in Mountain Sequence](https://www.lintcode.com/problem/maximum-number-in-mountain-sequence/description)|[Link](https://github.com/vincent507cpu/LeetCode-Comprehensive-Solution/tree/master/LintCode/585.%20Maximum%20Number%20in%20Mountain%20Sequence)|
 |609|1099 (locked)|[Two Sum - Less than or equal to target](https://www.lintcode.com/problem/two-sum-less-than-or-equal-to-target/description)|[Link](https://github.com/vincent507cpu/LeetCode-Comprehensive-Solution/tree/master/LintCode/609.%20Two%20Sum%20-%20Less%20than%20or%20equal%20to%20target)|
+
+
+## Two Pointers
+|LintCode No.|LeetCode No.|Problem|Solution|
+|--:|--:|:--:|:--:|
+|386|340 (locked)|[Longest Substring with At Most K Distinct Characters](https://www.lintcode.com/problem/longest-substring-with-at-most-k-distinct-characters/description)|[Link](https://github.com/vincent507cpu/LeetCode-Comprehensive-Solution/tree/master/LintCode/two%20pointers/386.%20Longest%20Substring%20with%20At%20Most%20K%20Distinct%20Characters)|
+|521|26|[Remove Duplicate Numbers in Array](https://www.lintcode.com/problem/remove-duplicate-numbers-in-array/description)|[Link](https://github.com/vincent507cpu/LeetCode-Comprehensive-Solution/tree/master/LintCode/two%20pointers/521.%20Remove%20Duplicate%20Numbers%20in%20Array)}
+|610||[Two Sum - Difference equals to target](https://www.lintcode.com/problem/two-sum-difference-equals-to-target/description)|[Link](https://github.com/vincent507cpu/LeetCode-Comprehensive-Solution/tree/master/LintCode/two%20pointers/610.%20Two%20Sum%20-%20Difference%20equals%20to%20target)|
+|1870||[number of substrings with all zeroes](https://www.lintcode.com/problem/number-of-substrings-with-all-zeroes/description)|[Link](https://github.com/vincent507cpu/LeetCode-Comprehensive-Solution/tree/master/LintCode/two%20pointers/1870.%20number%20of%20substrings%20with%20all%20zeroes)|
