@@ -145,6 +145,7 @@ This repository will likely only cover easy and medium problems in the near futu
 |409|627|[Longest Palindrome](https://leetcode.com/problems/longest-palindrome/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20String/409.%20Longest%20Palindrome)|
 |680|891|[Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/)|[Link](https://github.com/vincent507cpu/LeetCode-Comprehensive-Solution/tree/master/easy%20-%20String/680.%20Valid%20Palindrome%20II)|
 
+***
 # LintCode
 |LintCode No.|LeetCode No.|Problem|Solution|
 |--:|--:|:--:|:--:|
