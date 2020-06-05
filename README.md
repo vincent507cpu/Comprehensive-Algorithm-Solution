@@ -66,6 +66,7 @@ This repository will likely only cover easy and medium problems in the near futu
 |66||[Plus One](https://leetcode.com/problems/plus-one/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Array/66.%20Plus%20One)|
 |88||[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Array/88.%20Merge%20Sorted%20Array)|
 |136||[Single Number](https://leetcode.com/problems/single-number/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Hash%20Table/136.%20Single%20Number)|
+|169|46|[Majority Element](https://leetcode.com/problems/majority-element/)|[Link](https://github.com/vincent507cpu/LeetCode-Comprehensive-Solution/tree/master/easy%20-%20Array/169.%20Majority%20Element)|
 |204||[Count Primes](https://leetcode.com/problems/count-primes/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Hash%20Table/204.%20Count%20Primes)|
 |217||[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Array/217.%20Contains%20Duplicate)|
 |219||[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Array/219.%20Contains%20Duplicate%20II)|
@@ -80,6 +81,7 @@ This repository will likely only cover easy and medium problems in the near futu
 |566||[Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Array/566.%20Reshape%20the%20Matrix)|
 |581||[Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Array/581.%20Shortest%20Unsorted%20Continuous%20Subarray)|
 |605||[Can Place Flowers](https://leetcode.com/problems/can-place-flowers/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Array/605.%20Can%20Place%20Flowers)|
+|628|1119|[Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/)|[Link](https://github.com/vincent507cpu/LeetCode-Comprehensive-Solution/tree/master/easy%20-%20Array/628.%20Maximum%20Product%20of%20Three%20Numbers)|
 |643||[Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Array/643.%20Maximum%20Average%20Subarray%20I)|
 |665||[Non-decreasing Array](https://leetcode.com/problems/non-decreasing-array/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Array/665.%20Non-decreasing%20Array)|
 |674||[Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Array/674.%20Longest%20Continuous%20Increasing%20Subsequence)|
@@ -127,7 +129,11 @@ This repository will likely only cover easy and medium problems in the near futu
 |1389||[Create Target Array in the Given Order](https://leetcode.com/problems/create-target-array-in-the-given-order/)|[Link](https://github.com/vincent507cpu/LeetCode-Comprehensive-Solution/tree/master/easy%20-%20Array/1389.%20Create%20Target%20Array%20in%20the%20Given%20Order)|
 |1394||[Find Lucky Integer in an Array](https://leetcode.com/problems/find-lucky-integer-in-an-array/)|[Link](https://github.com/vincent507cpu/LeetCode-Comprehensive-Solution/tree/master/easy%20-%20Array/1394.%20Find%20Lucky%20Integer%20in%20an%20Array)|
 |1399||[Count Largest Group](https://leetcode.com/problems/count-largest-group/)|[Link](https://github.com/vincent507cpu/LeetCode-Comprehensive-Solution/tree/master/easy%20-%20Array/1399.%20Count%20Largest%20Group)|
-|1413||[Minimum Value to Get Positive Step by Step Sum](https://leetcode.com/problems/minimum-value-to-get-positive-step-by-step-sum/)|[Link](https://github.com/vincent507cpu/LeetCode-Comprehensive-Solution/tree/master/easy%20-%20Array/1413.%20Minimum%20Value%20to%20Get%20Positive%20Step%20by%20Step%20Sum)
+|1413||[Minimum Value to Get Positive Step by Step Sum](https://leetcode.com/problems/minimum-value-to-get-positive-step-by-step-sum/)|[Link](https://github.com/vincent507cpu/LeetCode-Comprehensive-Solution/tree/master/easy%20-%20Array/1413.%20Minimum%20Value%20to%20Get%20Positive%20Step%20by%20Step%20Sum)|
+|1431||[Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/)|[Link](https://github.com/vincent507cpu/LeetCode-Comprehensive-Solution/tree/master/easy%20-%20Array/1431.%20Kids%20With%20the%20Greatest%20Number%20of%20Candies)|
+|1450||[Number of Students Doing Homework at a Given Time](https://leetcode.com/problems/number-of-students-doing-homework-at-a-given-time/)|[Link](https://github.com/vincent507cpu/LeetCode-Comprehensive-Solution/tree/master/easy%20-%20Array/1450.%20Number%20of%20Students%20Doing%20Homework%20at%20a%20Given%20Time)|
+|1460||[Make Two Arrays Equal by Reversing Sub-arrays](https://leetcode.com/problems/make-two-arrays-equal-by-reversing-sub-arrays/)|[Link](https://github.com/vincent507cpu/LeetCode-Comprehensive-Solution/tree/master/easy%20-%20Array/1460.%20Make%20Two%20Arrays%20Equal%20by%20Reversing%20Sub-arrays)|
+|1464||[Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/)|[Link](https://github.com/vincent507cpu/LeetCode-Comprehensive-Solution/tree/master/easy%20-%20Array/1464.%20Maximum%20Product%20of%20Two%20Elements%20in%20an%20Array)|
 
 ## String
 
