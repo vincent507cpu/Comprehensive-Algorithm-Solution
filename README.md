@@ -8,7 +8,7 @@ This repository will likely only cover easy and medium problems in the near futu
 |LeetCode No.| LintCode No.| Problem | Solutions |
 | --: | --: | :--: | :--:|
 |1||[Two Sum](https://leetcode.com/problems/two-sum/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Hash%20Table/1.%20Two%20Sum)|
-|167|608|[Two Sum II ](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Hash%20Table/167.%20Two%20Sum%20II%20-%20Input%20array%20is%20sorted)|
+|167|608|[Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Hash%20Table/167.%20Two%20Sum%20II%20-%20Input%20array%20is%20sorted)|
 |202||[Happy Number](https://leetcode.com/problems/happy-number/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Hash%20Table/202.%20Happy%20Number)|
 |205||[Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Hash%20Table/205.%20Isomorphic%20Strings)|
 |217||[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Hash%20Table/217.%20Contains%20Duplicate)|
