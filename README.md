@@ -24,7 +24,7 @@ This repository will likely only cover easy and medium problems in the near futu
 |500||[Keyboard Row](https://leetcode.com/problems/keyboard-row/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Hash%20Table/500.%20Keyboard%20Row)|
 |575||[Distribute Candies](https://leetcode.com/problems/distribute-candies/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Hash%20Table/575.%20Distribute%20Candies)|
 |594||[Longest Harmonious Subsequence](https://leetcode.com/problems/longest-harmonious-subsequence/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Hash%20Table/594.%20Longest%20Harmonious%20Subsequence)|
-|599||[Minimum Index Sum of Two Lists](https://leetcode.com/problems/minimum-index-sum-of-two-lists/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Hash%20Table/599.%20Minimum%20Index%20Sum%20of%20Two%20Lists)|
+|599|1143|[Minimum Index Sum of Two Lists](https://leetcode.com/problems/minimum-index-sum-of-two-lists/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Hash%20Table/599.%20Minimum%20Index%20Sum%20of%20Two%20Lists)|
 |645||[Set Mismatch](https://leetcode.com/problems/set-mismatch/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Hash%20Table/645.%20Set%20Mismatch)|
 |690||[Employee Importance](https://leetcode.com/problems/employee-importance/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Hash%20Table/690.%20Employee%20Importance)|
 |720||[Longest Word in Dictionary](https://leetcode.com/problems/longest-word-in-dictionary/)|[Link](https://github.com/vincent507cpu/LeetCode/tree/master/easy%20-%20Hash%20Table/720.%20Longest%20Word%20in%20Dictionary)|
