@@ -182,6 +182,7 @@ This repository will likely only cover easy and medium problems in the near futu
 ## Binary search
 |LintCode No.|LeetCode No.|Problem|Solution|
 |--:|--:|:--:|:--:|
+|5||[Kth Largest Element](https://www.lintcode.com/problem/kth-largest-element/description)|
 |28||[Search a 2D Matrix](https://www.lintcode.com/problem/search-a-2d-matrix/description)|[Link](https://github.com/vincent507cpu/LeetCode-Comprehensive-Solution/tree/master/LintCode/binary%20search/28.%20Search%20a%202D%20Matrix)|
 |62||[Search in Rotated Sorted Array](https://www.lintcode.com/problem/search-in-rotated-sorted-array/description)|[Link](https://github.com/vincent507cpu/LeetCode-Comprehensive-Solution/tree/master/LintCode/binary%20search/62.%20Search%20in%20Rotated%20Sorted%20Array)|
 |74||[First Bad Version](https://www.lintcode.com/problem/first-bad-version/description)|[Link](https://github.com/vincent507cpu/LeetCode-Comprehensive-Solution/tree/master/LintCode/binary%20search/74.%20First%20Bad%20Version)|
