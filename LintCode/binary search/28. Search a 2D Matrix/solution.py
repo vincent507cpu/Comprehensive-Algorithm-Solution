@@ -30,3 +30,30 @@ class Solution:
             return True
             
         return False
+    
+    # convert to a 1D array
+    def searchMatrix(self, matrix, target):
+        # write your code here
+        if not matrix or len(matrix[0]) == 0:
+            return False
+            
+        m, n = len(matrix), len(matrix[0])
+        
+        start, end = 0, m * n - 1
+        
+        while start + 1 < end:
+            mid = (start + end) // 2
+            if self.get(matrix, mid) < target:
+                start = mid
+            else:
+                end = mid
+                
+        if self.get(matrix, start) == target or self.get(matrix, end) == target:
+            return True
+        
+        return False
+        
+    def get(self, matrix, idx):
+        row = idx // len(matrix[0])
+        col = idx % len(matrix[0])
+        return matrix[row][col]
