@@ -3,12 +3,12 @@ class Solution:
     @param grid: a chessboard included 0 and 1
     @return: the shortest path
     """
+    # 以 DP 的思路想，看当前点的上一步的步数
     def shortestPath2(self, grid):
         # write your code here
         if not grid or not grid[0]:
             return -1
         
-        # 位移方向为什么取相反数？
         DIRECTIONS = [
             (1, -2),
             (-1, -2),
@@ -25,7 +25,6 @@ class Solution:
                 if grid[i][j]:
                     continue
                 
-                # 这个循环不明白
                 for delta_x, delta_y in DIRECTIONS:
                     x, y = i + delta_x, j + delta_y
                     if 0 <= x < n and 0 <= y < m:
