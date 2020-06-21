@@ -5,7 +5,7 @@ class Point:
         self.x = a
         self.y = b
 """
-
+# one direction search
 class Solution:
     """
     @param grid: a chessboard included 0 (false) and 1 (true)
@@ -43,4 +43,4 @@ class Solution:
         if x < 0 or x >= n or y < 0 or y >= m:
             return False
             
-        return not grid[x][y]
+        return not grid[x][y]    

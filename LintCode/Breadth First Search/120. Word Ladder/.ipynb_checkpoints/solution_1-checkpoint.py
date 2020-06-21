@@ -5,6 +5,7 @@ class Solution:
     @param: dict: a set of string
     @return: An integer
     """
+    # single direction
     def ladderLength(self, start, end, dict):
         # write your code here
         dict.add(end)

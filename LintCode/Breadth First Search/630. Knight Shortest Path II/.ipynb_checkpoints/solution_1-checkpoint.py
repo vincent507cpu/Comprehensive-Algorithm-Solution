@@ -4,6 +4,7 @@ class Solution:
     @return: the shortest path
     """
     # 以 DP 的思路想，看当前点的上一步的步数
+    # single direction
     def shortestPath2(self, grid):
         # write your code here
         if not grid or not grid[0]:
