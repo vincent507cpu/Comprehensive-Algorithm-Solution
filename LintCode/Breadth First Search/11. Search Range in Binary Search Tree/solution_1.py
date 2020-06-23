@@ -6,6 +6,8 @@ class TreeNode:
         self.left, self.right = None, None
 """
 
+# BFS
+
 class Solution:
     """
     @param root: param root: The root of the binary search tree
