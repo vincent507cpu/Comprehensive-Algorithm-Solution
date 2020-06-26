@@ -27,12 +27,7 @@ class Solution:
                 right -= 1
             else:  # == 1, skip
                 index += 1
-                
-    class Solution:
-    """
-    @param nums: A list of integer which is 0, 1 or 2 
-    @return: nothing
-    """
+
     
     '''
     做两次 Partition。先把0和非0分开，再把1和非1分开。
