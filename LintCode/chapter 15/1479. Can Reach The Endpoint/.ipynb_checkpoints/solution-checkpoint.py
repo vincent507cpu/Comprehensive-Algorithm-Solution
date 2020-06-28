@@ -5,6 +5,9 @@ class Solution:
     """
     def reachEndpoint(self, map):
         # Write your code here
+        if not map or not map[0]:
+            return False
+        
         queue = [(0, 0)]
         
         while queue:
