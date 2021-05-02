@@ -1,3 +1,5 @@
+# BFS
+
 class Solution:
     """
     @param grid: a 2D integer grid
@@ -34,3 +36,33 @@ class Solution:
                 if not grid[i][j]:
                     return False
         return True
+    
+    ####################################################################################################
+    def zombie(self, grid):
+        # write your code here
+        queue, res = [], {}
+        for i in range(len(grid)):
+            for j in range(len(grid[0])):
+                # res[(i, j)] = -1
+                if grid[i][j] == 1:
+                    queue.append((i, j))
+                    res[(i, j)] = 0
+
+        while queue:
+            x, y = queue.pop(0)
+            for dx, dy in [(1, 0), (-1, 0), (0, 1), (0, -1)]:
+                nx, ny = x + dx, y + dy
+                if not (0 <= nx < len(grid) and 0 <= ny < len(grid[0])):
+                    continue
+                if grid[nx][ny]:
+                    continue
+                grid[nx][ny] = 1
+                res[(nx, ny)] = res.get((x, y), 0) + 1
+                queue.append((nx, ny))
+
+        for i in range(len(grid)):
+            for j in range(len(grid[0])):
+                if grid[i][j] == 0:
+                    return -1
+
+        return max(res.values())

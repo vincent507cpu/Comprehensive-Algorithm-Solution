@@ -6,25 +6,26 @@ class Solution:
     """
     def findOrder(self, numCourses, prerequisites):
         # write your code here
-        prereq = {i: [] for i in range(numCourses)}
-        inDegree = [0 for _ in range(numCourses)]
-        
-        for course, pre in prerequisites:
-            prereq[pre].append(course)
-            inDegree[course] += 1
-            
-        queue, res = [], []
+        prereq = {i:[] for i in range(numCourses)}
+        degree = [0 for _ in range(numCourses)]
+
+        for cur, pre in prerequisites:
+            prereq[pre].append(cur)
+            degree[cur] += 1
+
+        queue = []
         for i in range(numCourses):
-            if not inDegree[i]:
+            if degree[i] == 0:
                 queue.append(i)
-                
+
+        order = []
+
         while queue:
             node = queue.pop(0)
-            res.append(node)
-            
-            for x in prereq[node]:
-                inDegree[x] -= 1
-                if inDegree[x] == 0:
-                    queue.append(x)
-                    
-        return res if len(res) == numCourses else []
+            order.append(node)
+            for val in prereq[node]:
+                degree[val] -= 1
+                if degree[val] == 0:
+                    queue.append(val)
+
+        return order if len(order) == numCourses else []
