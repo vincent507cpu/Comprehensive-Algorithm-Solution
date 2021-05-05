@@ -5,7 +5,7 @@ A binary tree's **maximum depth** is the number of nodes along the longest path 
  
 
 ### Example 1:
-![](tmp-tree.jpj)
+![](tmp-tree.jpg)
 ```
 Input: root = [3,9,20,null,null,15,7]
 Output: 3
