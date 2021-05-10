@@ -6,7 +6,6 @@
 #         self.right = right
 class Solution:
     def invertTree(self, root: TreeNode) -> TreeNode:
-        # recursion
         if not root:
             return root
         

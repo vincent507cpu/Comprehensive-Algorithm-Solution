@@ -14,25 +14,21 @@ class Solution:
     """
     def findSubtree(self, root):
         # write your code here
-        if not root:
-            return
-        
-        self.minimum = float('inf')
+        self.min_val = float('inf')
         self.min_root = None
-        self.get_min_subtree(root)
-        
+        self.helper(root)
         return self.min_root
-        
-    def get_min_subtree(self, node):
+
+    def helper(self, node):
         if not node:
             return 0
-            
-        min_left = self.get_min_subtree(node.left)
-        min_right = self.get_min_subtree(node.right)
-        weight = min_left + min_right + node.val
-        
-        if weight < self.minimum:
-            self.minimum = weight
+
+        left = self.helper(node.left)
+        right = self.helper(node.right)
+        total = left + right + node.val
+
+        if total < self.min_val:
+            self.min_val = total
             self.min_root = node
-            
-        return weight
+
+        return total
