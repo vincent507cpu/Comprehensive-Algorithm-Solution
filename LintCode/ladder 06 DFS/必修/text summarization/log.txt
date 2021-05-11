@@ -1,0 +1,3 @@
+train data size 82943,test data size 20000
+train data size 82873,test data size 20000,merged_df data size 102873
+start build w2v model
