@@ -8,9 +8,8 @@ class Solution:
         fast = slow = head
         
         for i in range(n):
-            if not fast.next:
-                if i == n - 1:
-                    return head.next
+            if not fast.next and i == n - 1:
+                return head.next
             fast = fast.next
             
         while fast.next:
