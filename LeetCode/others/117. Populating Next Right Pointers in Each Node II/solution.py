@@ -13,27 +13,27 @@ class Solution:
         if not root:
             return root
         
-        cur = root
-        prevChild = curChild = None
+        head = root
+        prev = cur = None
         
-        while cur:
-            if not curChild:
-                curChild = cur.left or cur.right
+        while head:
+            if not prev:
+                prev = head.left or head.right
+            
+            if head.left:
+                if cur:
+                    cur.next = head.left
+                cur = head.left
                 
-            if cur.left:
-                if prevChild:
-                    prevChild.next = cur.left
-                prevChild = cur.left
+            if head.right:
+                if cur:
+                    cur.next = head.right
+                cur = head.right
                 
-            if cur.right:
-                if prevChild:
-                    prevChild.next = cur.right
-                prevChild = cur.right
-                
-            if cur.next:
-                cur = cur.next
+            if head.next:
+                head = head.next
             else:
-                cur = curChild
-                prevChild = curChild = None
+                head = prev
+                cur = prev = None
                 
         return root
